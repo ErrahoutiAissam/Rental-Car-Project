@@ -1,0 +1,4 @@
+CIN             Permis         Nom            nbrRese        Tel            Ville          Adresse        
+
+RB12345         X14891         Arbib Ali      2              0689070809     Imzouren       Imzouren tanawi
+RB21132         XP1231         Arbib Adil     0              0689070809     Imzouren       Imzouren wi3wi3

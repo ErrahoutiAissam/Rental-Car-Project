@@ -1,0 +1,5 @@
+CIN                 Permis              Nom                 nbrRese        Tel                 Ville               Adresse
+
+RB12345             X14891              Arbib Adil          4              0638472738          Bouayach            Rue39 Bouyach            
+RB47190             W18921              Ahmadi Jawad        1              0611754938          Alhoceima           Rue19 Alhoceima          
+RB45145             D31131              Arbahi Nawal        2              0648295710          Imzouren            Rue30 Imzouren           R64538              AA574f3             Hssein Hasni        0              0345268473          Al hoceima           mirador Al hoceima      
