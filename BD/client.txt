@@ -1,0 +1,5 @@
+CIN            Permis              Nom                 Tel                 Ville               Adresse
+_________________________________________________________________________________________________________________________
+RB21132        CC1234              Arbib Adil          0689070809          Imzouren            Rue13 Imzouren Alhoceima
+R14321         SE1242              Hssein wi3wi3       0689070809          Imzouren            Rue14 imzouren Alhoceima
+RB12331        X1314               Alaoui Hssein       0629864362          Bouayach            Rue31 Bouayach Alhoceima

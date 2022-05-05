@@ -1,0 +1,22 @@
+Matricule		Marque         	Modele
+
+AA-123-AA		Dacia         	Dacia Logan
+RT-653-RE		Dacia		    Dacia Duster
+JD-032-AN		Dacia           Dacia Logan
+NU-094-NF		Dacia           Dacia Lodgy
+HF-341-VF		Dacia           Dacia Dokker
+AB-895-AB		Renault		    Renault Clio
+WR-431-YU		Renault		    Renault Twingo
+PN-143-GT		Renault		    Renault ZEO
+ZE-144-RC		Peugeot         Peugeot 208
+EW-243-NB		Peugeot         Peugeot 108
+FR-132-GU		Peugeot         Peugeot 3008
+EE-191-EP		Ford 		    Ford Fiesta
+TT-134-TR		Ford 		    Ford Focus
+GY-325-FW		Ford 		    Ford Escap
+HR-323-NF		Ford 		    Ford EDGE
+XR-866-XE		Fiat            Fiat Panda
+HE-843-HF		Fiat            Fiat 500X
+BF-983-BD		Fiat            Fiat Panda
+HR-431-NV		Fiat            Fiat Argo
+JF-983-JH		Fiat            Fiat 500L

@@ -1,0 +1,3 @@
+CIN            Matricule           Date de debut             Date de fin               Modele              PrixTotal
+
+RB21132        AB-895-AB           10/10/2020                14/10/2020                Renault Clio        0

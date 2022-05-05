@@ -1,0 +1,4 @@
+CIN            Matricule           Date de debut             Date de fin               Modele              PrixTotal
+
+R14321         BF-983-BD           17/12/2020                20/12/2020                Fiat Panda          300
+RB12331        BF-983-BD           24/11/2021                26/11/2021                Fiat Panda          300
